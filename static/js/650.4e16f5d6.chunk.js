@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklearn_lingo=self.webpackChunklearn_lingo||[]).push([[650],{650:(e,n,a)=>{a.r(n),a.d(n,{default:()=>r});var l=a(522),s=a(559);const r=()=>(0,s.jsx)(s.Fragment,{children:(0,s.jsx)(l.a,{})})}}]);
+//# sourceMappingURL=650.4e16f5d6.chunk.js.map
